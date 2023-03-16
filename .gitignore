@@ -1,0 +1,4 @@
+node_modules*
+data.json*
+config.js*
+package-lock.json*
